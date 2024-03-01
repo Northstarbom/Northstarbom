@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Northstarbom
-- 👀 I’m working on Meta platforms
+
+
 - 🌱 I’m currently learning Quantum coding
 - 💞️ I’m looking to collaborate on Metaverse development
-- 📫 How to reach me ... Bomlaqi@gmail.com
+
 - 🪙 Protocol Redluna Cion Metavers currency
 <!---
 Northstarbom/Northstarbom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
