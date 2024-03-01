@@ -1,7 +1,7 @@
 
 
-- 🌱 I’m currently learning Quantum coding
-- 💞️ I’m looking to collaborate on Metaverse development
+- 🌱 Quantum coding
+- 💞️ We are looking to collaborate on Metaverse development
 
 - 🪙 Protocol Redluna Cion Metavers currency
 <!---
