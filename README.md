@@ -2,7 +2,7 @@
 
 - 🌱 Quantum coding
 - 💞️ We are looking to collaborate on Metaverse development
--     Metavers currency
+-     Metaverse currency
 - 🪙 Protocol Redluna Cion
 <!---
 Northstarbom/Northstarbom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
